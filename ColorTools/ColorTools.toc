@@ -1,0 +1,7 @@
+## Interface: 30200
+## Title: ColorTools
+## Notes: Tools (for colors).
+## Author: Magss
+## SavedVars: ColorToolsDB
+
+tools.lua
